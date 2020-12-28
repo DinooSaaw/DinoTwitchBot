@@ -1,0 +1,15 @@
+*VIP: E005B9: vip: '1'
+Administrators: DB7600
+*Chat Moderator: 00AD03: moderator: '1'
+Current Conductor: B06C00
+Former Conductor: 72DE7
+Founders: 59399A
+Prime Gaming User: 00A0D6: premium: '1'
+Staff: 808080
+*Streamers: E91916: broadcaster: '1'
+Turbo User: 6441a5
+Verified: 9146FF
+*GLHF: 696969: 'glhf-pledge': '1' 
+Bits: f69c2c: bits
+*Subscriber: b31217: subscriber: 
+Subscriber Gifter: b31217: 'sub-gifter': 
