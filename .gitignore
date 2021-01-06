@@ -2,6 +2,7 @@
 test
 .vscode
 *package-lock.json
+auths
 # Logs
 logs
 *.log
