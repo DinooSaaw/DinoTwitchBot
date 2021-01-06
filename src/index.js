@@ -130,9 +130,6 @@ class TwitchChatLib {
         console.log(`Command:`, msg)
         //CLIENTS['Bot'].say(target, `chat`);
         await _Auth.fetchUser();
-        if (msg === `!gt`){
-          CLIENTS["Bot"].say("dinoosaaw", `Current Account GT is 'Alpha PenguinP'`)
-        }
         if (msg === `!lurk`){
           CLIENTS["Bot"].say("dinoosaaw", `${context.username} Is Now Lurking From Me! I Will Find You`)
           let Fu = DinoChannelUsers
@@ -148,9 +145,6 @@ class TwitchChatLib {
         }
         if (msg === `!dino.bot`){
           CLIENTS["Bot"].say(target, `Shhh`)
-        }
-        if (msg === `!discord`){
-          CLIENTS["Bot"].say("dinoosaaw", `Discord Is: 'https://discord.gg/M8q4QvW'`)
         }
         if (msg === `!channelusers`){
           CLIENTS["Bot"].say("dinoosaaw", `DinooSaaw's Viewers Are: ${DinoChannelUsers}`)
